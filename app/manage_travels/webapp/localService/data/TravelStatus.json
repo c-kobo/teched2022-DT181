@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Accepted",
+    "descr": null,
+    "code": "A",
+    "criticality": 3,
+    "fieldControl": 1,
+    "createDeleteHidden": true
+    },
+    {
+    "name": "Open",
+    "descr": null,
+    "code": "O",
+    "criticality": 2,
+    "fieldControl": 7,
+    "createDeleteHidden": false
+    },
+    {
+    "name": "Canceled",
+    "descr": null,
+    "code": "X",
+    "criticality": 0,
+    "fieldControl": 7,
+    "createDeleteHidden": true
+    }
+    ]

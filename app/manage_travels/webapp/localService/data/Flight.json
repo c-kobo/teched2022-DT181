@@ -1,0 +1,402 @@
+[
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2023-08-02",
+    "ConnectionID": "0402",
+    "Price": 2498,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A380-800",
+    "MaximumSeats": 475,
+    "OccupiedSeats": 213
+    },
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2023-08-02",
+    "ConnectionID": "0403",
+    "Price": 4247,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 250
+    },
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2023-08-06",
+    "ConnectionID": "0401",
+    "Price": 2476,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 173
+    },
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2023-08-07",
+    "ConnectionID": "0400",
+    "Price": 4724,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 319
+    },
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2024-05-30",
+    "ConnectionID": "0402",
+    "Price": 3232,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 231
+    },
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2024-05-30",
+    "ConnectionID": "0403",
+    "Price": 3016,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 215
+    },
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2024-06-03",
+    "ConnectionID": "0401",
+    "Price": 4352,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A380-800",
+    "MaximumSeats": 475,
+    "OccupiedSeats": 370
+    },
+    {
+    "AirlineID": "EA",
+    "FlightDate": "2024-06-04",
+    "ConnectionID": "0400",
+    "Price": 2742,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 196
+    },
+    {
+    "AirlineID": "FA",
+    "FlightDate": "2023-08-06",
+    "ConnectionID": "0789",
+    "Price": 4270,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 196
+    },
+    {
+    "AirlineID": "FA",
+    "FlightDate": "2023-08-07",
+    "ConnectionID": "0788",
+    "Price": 8227,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 234
+    },
+    {
+    "AirlineID": "FA",
+    "FlightDate": "2024-06-03",
+    "ConnectionID": "0789",
+    "Price": 7004,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 264
+    },
+    {
+    "AirlineID": "FA",
+    "FlightDate": "2024-06-04",
+    "ConnectionID": "0788",
+    "Price": 8622,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 306
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2023-08-04",
+    "ConnectionID": "0017",
+    "Price": 326,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A320-200",
+    "MaximumSeats": 130,
+    "OccupiedSeats": 92
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2023-08-05",
+    "ConnectionID": "0018",
+    "Price": 3398,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 226
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2023-08-06",
+    "ConnectionID": "0015",
+    "Price": 2051,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A380-800",
+    "MaximumSeats": 475,
+    "OccupiedSeats": 270
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2023-08-07",
+    "ConnectionID": "2678",
+    "Price": 355,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A319-100",
+    "MaximumSeats": 120,
+    "OccupiedSeats": 91
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2023-08-08",
+    "ConnectionID": "0322",
+    "Price": 753,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "737-800",
+    "MaximumSeats": 140,
+    "OccupiedSeats": 68
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2024-06-01",
+    "ConnectionID": "0017",
+    "Price": 289,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A321-200",
+    "MaximumSeats": 150,
+    "OccupiedSeats": 96
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2024-06-02",
+    "ConnectionID": "0018",
+    "Price": 2887,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 254
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2024-06-03",
+    "ConnectionID": "0015",
+    "Price": 2051,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 219
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2024-06-04",
+    "ConnectionID": "2678",
+    "Price": 208,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A320-200",
+    "MaximumSeats": 130,
+    "OccupiedSeats": 58
+    },
+    {
+    "AirlineID": "GA",
+    "FlightDate": "2024-06-05",
+    "ConnectionID": "0322",
+    "Price": 943,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "737-800",
+    "MaximumSeats": 140,
+    "OccupiedSeats": 86
+    },
+    {
+    "AirlineID": "OC",
+    "FlightDate": "2023-08-06",
+    "ConnectionID": "0407",
+    "Price": 4033,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 127
+    },
+    {
+    "AirlineID": "OC",
+    "FlightDate": "2023-08-07",
+    "ConnectionID": "0408",
+    "Price": 6959,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 267
+    },
+    {
+    "AirlineID": "OC",
+    "FlightDate": "2024-06-03",
+    "ConnectionID": "0407",
+    "Price": 4630,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 219
+    },
+    {
+    "AirlineID": "OC",
+    "FlightDate": "2024-06-04",
+    "ConnectionID": "0408",
+    "Price": 3833,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 119
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2023-08-02",
+    "ConnectionID": "0058",
+    "Price": 8369,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 236
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2023-08-03",
+    "ConnectionID": "0059",
+    "Price": 5353,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 166
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2023-08-04",
+    "ConnectionID": "0001",
+    "Price": 5526,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 119
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2023-08-05",
+    "ConnectionID": "0002",
+    "Price": 5434,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 148
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2023-08-05",
+    "ConnectionID": "0011",
+    "Price": 4178,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 277
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2023-08-06",
+    "ConnectionID": "1537",
+    "Price": 1157,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A319-100",
+    "MaximumSeats": 120,
+    "OccupiedSeats": 88
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2023-08-07",
+    "ConnectionID": "0012",
+    "Price": 4745,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A380-800",
+    "MaximumSeats": 475,
+    "OccupiedSeats": 437
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2024-05-30",
+    "ConnectionID": "0058",
+    "Price": 4996,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 231
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2024-05-31",
+    "ConnectionID": "0059",
+    "Price": 8109,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A340-600",
+    "MaximumSeats": 330,
+    "OccupiedSeats": 293
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2024-06-01",
+    "ConnectionID": "0001",
+    "Price": 10035,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 210
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2024-06-02",
+    "ConnectionID": "0002",
+    "Price": 7933,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "767-200",
+    "MaximumSeats": 260,
+    "OccupiedSeats": 174
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2024-06-02",
+    "ConnectionID": "0011",
+    "Price": 3092,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A380-800",
+    "MaximumSeats": 475,
+    "OccupiedSeats": 313
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2024-06-03",
+    "ConnectionID": "1537",
+    "Price": 807,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "A319-100",
+    "MaximumSeats": 120,
+    "OccupiedSeats": 63
+    },
+    {
+    "AirlineID": "SW",
+    "FlightDate": "2024-06-04",
+    "ConnectionID": "0012",
+    "Price": 4894,
+    "CurrencyCode_code": "USD",
+    "PlaneType": "747-400",
+    "MaximumSeats": 385,
+    "OccupiedSeats": 361
+    }
+    ]

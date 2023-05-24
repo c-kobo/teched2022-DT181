@@ -1,0 +1,23 @@
+{
+  "name": "cds-plugin-ui5",
+  "version": "0.0.0",
+  "description": "Inject server middlewares of UI5 projects into the CDS express server.",
+  "author": "Peter Muessig",
+  "private": true,
+  "dependencies": {
+    "@ui5/fs": "^3.0.3",
+    "@ui5/project": "^3.3.0",
+    "@ui5/server": "^3.1.2",
+    "express-urlrewrite": "^2.0.1",
+    "globby": "^13.1.4",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@sap/cds": "^6.8.1",
+    "express": "^4.18.2"
+  },
+  "peerDependencies": {
+    "@sap/cds": ">=6.8.1",
+    "express": ">=4.18.2"
+  }
+}

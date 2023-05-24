@@ -1,0 +1,22 @@
+[
+    {
+    "name": "Beverage",
+    "descr": null,
+    "code": "BV"
+    },
+    {
+    "name": "Extra",
+    "descr": null,
+    "code": "EX"
+    },
+    {
+    "name": "Luggage",
+    "descr": null,
+    "code": "LU"
+    },
+    {
+    "name": "Meal",
+    "descr": null,
+    "code": "ML"
+    }
+    ]

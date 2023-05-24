@@ -1,0 +1,17 @@
+[
+    {
+    "name": "Accepted",
+    "descr": null,
+    "code": "B"
+    },
+    {
+    "name": "New",
+    "descr": null,
+    "code": "N"
+    },
+    {
+    "name": "Cancelled",
+    "descr": null,
+    "code": "X"
+    }
+    ]

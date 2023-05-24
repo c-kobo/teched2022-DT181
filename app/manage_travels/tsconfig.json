@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es2022",
+        "module": "es2022",
+        "skipLibCheck": true,
+        "preserveConstEnums": true,
+        "allowJs": true,
+        "strict": true,
+        "strictNullChecks": false,
+        "strictPropertyInitialization": false,
+        "rootDir": "webapp",
+        "baseUrl": "./",
+        "paths": {
+            "sap/fe/cap/managetravels/*": [
+                "webapp/*"
+            ]
+        },
+        "types": [ "@sapui5/ts-types-esm"]
+    },
+    "include": [
+        "webapp/**/*"
+    ]
+}

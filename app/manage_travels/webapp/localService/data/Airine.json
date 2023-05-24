@@ -1,0 +1,37 @@
+[
+    {
+    "AirlineID": "EA",
+    "Name": "European Airlines",
+    "CurrencyCode_code": "EUR",
+    "AirlinePicURL": "https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/European-Airlines-logo.png",
+    "VIPCustomerBookings": 4
+    },
+    {
+    "AirlineID": "FA",
+    "Name": "Fly Africa",
+    "CurrencyCode_code": "SAR",
+    "AirlinePicURL": "https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Fly-Africa-logo.png",
+    "VIPCustomerBookings": 4
+    },
+    {
+    "AirlineID": "GA",
+    "Name": "Green Albatros",
+    "CurrencyCode_code": "CAD",
+    "AirlinePicURL": "https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Green-Albatross-logo.png",
+    "VIPCustomerBookings": 4
+    },
+    {
+    "AirlineID": "OC",
+    "Name": "Oceania",
+    "CurrencyCode_code": "USD",
+    "AirlinePicURL": "https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Oceania-logo.png",
+    "VIPCustomerBookings": 4
+    },
+    {
+    "AirlineID": "SW",
+    "Name": "Sunset Wings",
+    "CurrencyCode_code": "USD",
+    "AirlinePicURL": "https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Sunset-Wings-logo.png",
+    "VIPCustomerBookings": 4
+    }
+    ]

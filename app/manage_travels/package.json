@@ -1,0 +1,41 @@
+{
+    "name": "managetravels",
+    "version": "0.0.1",
+    "private": true,
+    "description": "A Fiori application.",
+    "keywords": [
+        "ui5",
+        "openui5",
+        "sapui5"
+    ],
+    "main": "webapp/index.html",
+    "devDependencies": {
+        "@sap-ux/ui5-middleware-fe-mockserver": "^2.1.82",
+        "@sap/ux-specification": "UI5-1.113",
+        "@sap/ux-ui5-tooling": "^1.9.6",
+        "@sapui5/types": "*",
+        "@typescript-eslint/eslint-plugin": "^5.17.0",
+        "@typescript-eslint/parser": "^5.17.0",
+        "@ui5/cli": "^3.1.3",
+        "typescript": "^5.0.4",
+        "ui5-middleware-livereload": "^0.8.2",
+        "ui5-middleware-cap": "*",        
+        "ui5-tooling-transpile": "^0.7.10"
+    },
+    "scripts": {
+        "start-local": "fiori run --config ./ui5.yaml --open \"webapp/index.html?sap-ui-xx-viewCache=false\"",
+        "clean": "rimraf dist",
+        "build": "ui5 build",
+        "watch": "ui5 serve",
+        "start": "ui5 serve --config ui5-dist.yaml"
+    },
+    "ui5": {
+        "dependencies": [
+            "@sap/ux-ui5-tooling",
+            "ui5-tooling-transpile",
+            "@sap-ux/ui5-middleware-fe-mockserver"
+        ]
+    },
+    "sapux": true,
+    "sapuxLayer": "VENDOR"
+}

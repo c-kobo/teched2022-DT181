@@ -1,0 +1,158 @@
+<edmx:Edmx xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx" Version="4.0">
+    <edmx:Reference Uri="https://sap.github.io/odata-vocabularies/vocabularies/UI.xml">
+        <edmx:Include Namespace="com.sap.vocabularies.UI.v1" Alias="UI"/>
+    </edmx:Reference>
+    <edmx:Reference Uri="https://oasis-tcs.github.io/odata-vocabularies/vocabularies/Org.OData.Aggregation.V1.xml">
+        <edmx:Include Alias="Aggregation" Namespace="Org.OData.Aggregation.V1"/>
+    </edmx:Reference>    
+    <edmx:Reference Uri="/here/goes/your/serviceurl/$metadata">
+        <edmx:Include Namespace="TravelService"/>
+    </edmx:Reference>
+    <edmx:DataServices>
+        <Schema xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="local">
+            <Annotations Target="TravelService.Travel">
+                <Annotation Term="UI.Facets">
+                    <Collection>
+                        <Record Type="UI.CollectionFacet">
+                            <PropertyValue Property="Label" String="{@i18n>travel}"/>
+                            <PropertyValue Property="ID" String="i18nTraveldata"/>
+                            <PropertyValue Property="Facets">
+                                <Collection>
+                                    <Record Type="UI.ReferenceFacet">
+                                        <PropertyValue Property="Label" String="{@i18n>travel}"/>
+                                        <PropertyValue Property="ID" String="i18nTraveldata"/>
+                                        <PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#i18nTraveldata"/>
+                                    </Record>
+                                    <Record Type="UI.ReferenceFacet">
+                                        <PropertyValue Property="Label" String="{@i18n>prices}"/>
+                                        <PropertyValue Property="ID" String="PriceData"/>
+                                        <PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#PriceData"/>
+                                    </Record>
+                                    <Record Type="UI.ReferenceFacet">
+                                        <PropertyValue Property="Label" String="{@i18n>dates}"/>
+                                        <PropertyValue Property="ID" String="i18nDatedata"/>
+                                        <PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#i18nDatedata"/>
+                                    </Record>
+                                    <Record Type="UI.ReferenceFacet">
+                                        <PropertyValue Property="Label" String="{@i18n>sustainability}"/>
+                                        <PropertyValue Property="ID" String="i18nSustainability"/>
+                                        <PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#i18nSustainability"/>
+                                    </Record>
+                                </Collection>
+                            </PropertyValue>
+                        </Record>
+                    </Collection>
+                </Annotation>
+                <Annotation Term="UI.FieldGroup" Qualifier="i18nTraveldata">
+                    <Record Type="UI.FieldGroupType">
+                        <PropertyValue Property="Data">
+                            <Collection>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="TravelID"/>
+                                    <PropertyValue Property="Label" String="{@i18n>travel}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="to_Agency_AgencyID"/>
+                                    <PropertyValue Property="Label" String="{@i18n>agency}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="to_Customer_CustomerID"/>
+                                    <PropertyValue Property="Label" String="{@i18n>customer}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="Description"/>
+                                    <PropertyValue Property="Label" String="{@i18n>description}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="TravelStatus_code"/>
+                                    <PropertyValue Property="Criticality" Path="TravelStatus/criticality"/>
+                                    <PropertyValue Property="Label" String="{@i18n>travelStatus}"/>
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.FieldGroup" Qualifier="PriceData">
+                    <Record Type="UI.FieldGroupType">
+                        <PropertyValue Property="Data">
+                            <Collection>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="BookingFee"/>
+                                    <PropertyValue Property="Label" String="{@i18n>bookingFee}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="TotalPrice"/>
+                                    <PropertyValue Property="Label" String="{@i18n>totalPrice}"/>
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.FieldGroup" Qualifier="i18nDatedata">
+                    <Record Type="UI.FieldGroupType">
+                        <PropertyValue Property="Data">
+                            <Collection>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="BeginDate"/>
+                                    <PropertyValue Property="Label" String="{@i18n>startingDate}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="EndDate"/>
+                                    <PropertyValue Property="Label" String="{@i18n>endDate}"/>
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.FieldGroup" Qualifier="i18nSustainability">
+                    <Record Type="UI.FieldGroupType">
+                        <PropertyValue Property="Data">
+                            <Collection>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="GoGreen"/>
+                                    <PropertyValue Property="Label" String="{@i18n>trees4tickets}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="GreenFee"/>
+                                    <PropertyValue Property="Label" String="{@i18n>greenFlightFee}"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="TreesPlanted"/>
+                                    <PropertyValue Property="Label" String="{@i18n>treesPlanted}"/>
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.HeaderInfo">
+                    <Record Type="UI.HeaderInfoType">
+                        <PropertyValue Property="TypeName" String="{@i18n>travel}"/>
+                        <PropertyValue Property="TypeNamePlural" String="{@i18n>travels}"/>
+                        <PropertyValue Property="Title">
+                            <Record Type="UI.DataField">
+                                <PropertyValue Property="Value" Path="Description"/>
+                            </Record>
+                        </PropertyValue>
+                        <PropertyValue Property="Description">
+                            <Record Type="UI.DataField">
+                                <PropertyValue Property="Value" Path="TravelID"/>
+                            </Record>
+                        </PropertyValue>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.Identification">
+                    <Collection>
+                        <Record Type="UI.DataFieldForAction">
+                            <PropertyValue Property="Action" String="TravelService.acceptTravel"/>
+                            <PropertyValue Property="Label" String="{@i18n>acceptTravel}"/>
+                        </Record>
+                        <Record Type="UI.DataFieldForAction">
+                            <PropertyValue Property="Action" String="TravelService.rejectTravel"/>
+                            <PropertyValue Property="Label" String="{@i18n>rejectTravel}"/>
+                        </Record>
+                    </Collection>
+                </Annotation>
+            </Annotations>
+        </Schema>
+    </edmx:DataServices>
+</edmx:Edmx>

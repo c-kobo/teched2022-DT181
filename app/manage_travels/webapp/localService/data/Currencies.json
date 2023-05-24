@@ -1,0 +1,113 @@
+{
+    "@odata.context": "$metadata#Currencies",
+    "value": [
+    {
+    "name": "australien dollar",
+    "descr": "australien dollar",
+    "code": "AUD",
+    "symbol": "$",
+    "numcode": 36,
+    "exponent": 2,
+    "minor": "Cent"
+    },
+    {
+    "name": "canadien dollar",
+    "descr": "canadien dollar",
+    "code": "CAD",
+    "symbol": "$",
+    "numcode": 124,
+    "exponent": 2,
+    "minor": "Cent"
+    },
+    {
+    "name": "Yuan",
+    "descr": "Chinese Yuan Renminbi",
+    "code": "CNY",
+    "symbol": "¥",
+    "numcode": 156,
+    "exponent": 1,
+    "minor": "Jiao"
+    },
+    {
+    "name": "euro",
+    "descr": "euro",
+    "code": "EUR",
+    "symbol": "€",
+    "numcode": 978,
+    "exponent": 2,
+    "minor": "Cent"
+    },
+    {
+    "name": "pound sterling",
+    "descr": "pound sterling",
+    "code": "GBP",
+    "symbol": "£",
+    "numcode": 826,
+    "exponent": 2,
+    "minor": "Penny"
+    },
+    {
+    "name": "Shekel",
+    "descr": "shekel",
+    "code": "ILS",
+    "symbol": "₪",
+    "numcode": 376,
+    "exponent": 2,
+    "minor": "Agorat"
+    },
+    {
+    "name": "Rupee",
+    "descr": "Indian Rupee",
+    "code": "INR",
+    "symbol": "₹",
+    "numcode": 356,
+    "exponent": 2,
+    "minor": "Paise"
+    },
+    {
+    "name": "Yen",
+    "descr": "Japanese Yen",
+    "code": "JPY",
+    "symbol": "¥",
+    "numcode": 392,
+    "exponent": 2,
+    "minor": "Sen"
+    },
+    {
+    "name": "Riyal",
+    "descr": "Katar Riyal",
+    "code": "QAR",
+    "symbol": "﷼",
+    "numcode": 356,
+    "exponent": 2,
+    "minor": "Dirham"
+    },
+    {
+    "name": "Riyal",
+    "descr": "Saudi Riyal",
+    "code": "SAR",
+    "symbol": "﷼",
+    "numcode": 682,
+    "exponent": 2,
+    "minor": "Halala"
+    },
+    {
+    "name": "Singapore Dollar",
+    "descr": "Singapore Dollar",
+    "code": "SGD",
+    "symbol": "S$",
+    "numcode": 702,
+    "exponent": 2,
+    "minor": "Cent"
+    },
+    {
+    "name": "dollar",
+    "descr": "US dollar",
+    "code": "USD",
+    "symbol": "$",
+    "numcode": 840,
+    "exponent": 2,
+    "minor": "Cent"
+    }
+    ]
+    }

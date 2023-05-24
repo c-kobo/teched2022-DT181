@@ -1,0 +1,202 @@
+[
+    {
+    "ConnectionID": "0001",
+    "AirlineID": "SW",
+    "DepartureAirport_AirportID": "SFO",
+    "DestinationAirport_AirportID": "SIN",
+    "DepartureTime": "01:15:00",
+    "ArrivalTime": "11:50:00",
+    "Distance": 13523,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0002",
+    "AirlineID": "SW",
+    "DepartureAirport_AirportID": "SIN",
+    "DestinationAirport_AirportID": "SFO",
+    "DepartureTime": "06:30:00",
+    "ArrivalTime": "09:15:00",
+    "Distance": 13523,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0011",
+    "AirlineID": "SW",
+    "DepartureAirport_AirportID": "NRT",
+    "DestinationAirport_AirportID": "SIN",
+    "DepartureTime": "14:55:00",
+    "ArrivalTime": "20:50:00",
+    "Distance": 5363,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0012",
+    "AirlineID": "SW",
+    "DepartureAirport_AirportID": "SIN",
+    "DestinationAirport_AirportID": "NRT",
+    "DepartureTime": "09:53:00",
+    "ArrivalTime": "17:54:00",
+    "Distance": 5363,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0015",
+    "AirlineID": "GA",
+    "DepartureAirport_AirportID": "JFK",
+    "DestinationAirport_AirportID": "SFO",
+    "DepartureTime": "07:13:00",
+    "ArrivalTime": "10:04:00",
+    "Distance": 4156,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0017",
+    "AirlineID": "GA",
+    "DepartureAirport_AirportID": "MIA",
+    "DestinationAirport_AirportID": "HAV",
+    "DepartureTime": "07:19:00",
+    "ArrivalTime": "08:03:00",
+    "Distance": 520,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0018",
+    "AirlineID": "GA",
+    "DepartureAirport_AirportID": "SFO",
+    "DestinationAirport_AirportID": "JFK",
+    "DepartureTime": "06:40:00",
+    "ArrivalTime": "15:06:00",
+    "Distance": 4156,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0058",
+    "AirlineID": "SW",
+    "DepartureAirport_AirportID": "SFO",
+    "DestinationAirport_AirportID": "FRA",
+    "DepartureTime": "13:45:00",
+    "ArrivalTime": "09:55:00",
+    "Distance": 9608,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0059",
+    "AirlineID": "SW",
+    "DepartureAirport_AirportID": "FRA",
+    "DestinationAirport_AirportID": "SFO",
+    "DepartureTime": "13:55:00",
+    "ArrivalTime": "16:30:00",
+    "Distance": 9608,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0322",
+    "AirlineID": "GA",
+    "DepartureAirport_AirportID": "MIA",
+    "DestinationAirport_AirportID": "EWR",
+    "DepartureTime": "20:17:00",
+    "ArrivalTime": "23:19:00",
+    "Distance": 1752,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0400",
+    "AirlineID": "EA",
+    "DepartureAirport_AirportID": "FRA",
+    "DestinationAirport_AirportID": "JFK",
+    "DepartureTime": "10:10:00",
+    "ArrivalTime": "11:34:00",
+    "Distance": 6162,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0401",
+    "AirlineID": "EA",
+    "DepartureAirport_AirportID": "JFK",
+    "DestinationAirport_AirportID": "FRA",
+    "DepartureTime": "18:30:00",
+    "ArrivalTime": "07:45:00",
+    "Distance": 6162,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0402",
+    "AirlineID": "EA",
+    "DepartureAirport_AirportID": "FRA",
+    "DestinationAirport_AirportID": "EWR",
+    "DepartureTime": "13:30:00",
+    "ArrivalTime": "15:35:00",
+    "Distance": 6217,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0403",
+    "AirlineID": "EA",
+    "DepartureAirport_AirportID": "EWR",
+    "DestinationAirport_AirportID": "FRA",
+    "DepartureTime": "18:09:00",
+    "ArrivalTime": "07:30:00",
+    "Distance": 6217,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0407",
+    "AirlineID": "OC",
+    "DepartureAirport_AirportID": "NRT",
+    "DestinationAirport_AirportID": "FRA",
+    "DepartureTime": "13:23:00",
+    "ArrivalTime": "15:56:00",
+    "Distance": 9379,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0408",
+    "AirlineID": "OC",
+    "DepartureAirport_AirportID": "FRA",
+    "DestinationAirport_AirportID": "NRT",
+    "DepartureTime": "20:25:00",
+    "ArrivalTime": "15:40:00",
+    "Distance": 9379,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0788",
+    "AirlineID": "FA",
+    "DepartureAirport_AirportID": "VCE",
+    "DestinationAirport_AirportID": "NRT",
+    "DepartureTime": "13:25:00",
+    "ArrivalTime": "10:13:00",
+    "Distance": 9595,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "0789",
+    "AirlineID": "FA",
+    "DepartureAirport_AirportID": "NRT",
+    "DestinationAirport_AirportID": "VCE",
+    "DepartureTime": "14:26:00",
+    "ArrivalTime": "21:31:00",
+    "Distance": 9595,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "1537",
+    "AirlineID": "SW",
+    "DepartureAirport_AirportID": "EWR",
+    "DestinationAirport_AirportID": "MIA",
+    "DepartureTime": "21:56:00",
+    "ArrivalTime": "12:47:00",
+    "Distance": 1752,
+    "DistanceUnit": "KM"
+    },
+    {
+    "ConnectionID": "2678",
+    "AirlineID": "GA",
+    "DepartureAirport_AirportID": "HAV",
+    "DestinationAirport_AirportID": "MIA",
+    "DepartureTime": "06:15:00",
+    "ArrivalTime": "10:30:00",
+    "Distance": 520,
+    "DistanceUnit": "KM"
+    }
+    ]

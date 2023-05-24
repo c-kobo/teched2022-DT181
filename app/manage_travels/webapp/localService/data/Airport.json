@@ -1,0 +1,284 @@
+[
+    {
+    "AirportID": "ACA",
+    "Name": "General Juan N. Álvarez Int. Airport",
+    "City": "Acapulco, Guerrero",
+    "CountryCode_code": "MX"
+    },
+    {
+    "AirportID": "ACE",
+    "Name": "Lanzarote Airport",
+    "City": "Lanzarote, Canary Islands",
+    "CountryCode_code": "ES"
+    },
+    {
+    "AirportID": "ASP",
+    "Name": "Alice Springs Airport",
+    "City": "Alice Springs, Northern Territory",
+    "CountryCode_code": "AU"
+    },
+    {
+    "AirportID": "BKK",
+    "Name": "Suvarnabhumi Airport",
+    "City": "Bangkok",
+    "CountryCode_code": "TH"
+    },
+    {
+    "AirportID": "BNA",
+    "Name": "Nashville International Airport",
+    "City": "Nashville, Tennessee",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "BOS",
+    "Name": "Logan International Airport",
+    "City": "Boston, Massachusetts",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "CDG",
+    "Name": "Charles de Gaulle Airport",
+    "City": "Paris",
+    "CountryCode_code": "FR"
+    },
+    {
+    "AirportID": "DEN",
+    "Name": "Denver International Airport",
+    "City": "Denver, Colorado",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "ELP",
+    "Name": "El Paso International Airport",
+    "City": "El Paso, Texas",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "EWR",
+    "Name": "Newark Liberty International Airport",
+    "City": "Newark, New Jersey",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "FCO",
+    "Name": "Leonardo da Vinci–Fiumicino Airport",
+    "City": "Rome",
+    "CountryCode_code": "IT"
+    },
+    {
+    "AirportID": "FRA",
+    "Name": "Frankfurt Airport",
+    "City": "Frankfurt/Main",
+    "CountryCode_code": "DE"
+    },
+    {
+    "AirportID": "GCJ",
+    "Name": "Grand Central Airport",
+    "City": "Johannesburg",
+    "CountryCode_code": "SA"
+    },
+    {
+    "AirportID": "GIG",
+    "Name": "Rio de Janeiro–Galeão Int. Airport",
+    "City": "Rio de Janeiro",
+    "CountryCode_code": "BR"
+    },
+    {
+    "AirportID": "HAM",
+    "Name": "Hamburg Airport",
+    "City": "Hamburg",
+    "CountryCode_code": "DE"
+    },
+    {
+    "AirportID": "HAV",
+    "Name": "José Martí International Airport",
+    "City": "Havana",
+    "CountryCode_code": "CU"
+    },
+    {
+    "AirportID": "HIJ",
+    "Name": "Hiroshima Airport",
+    "City": "Hiroshima, Honshu",
+    "CountryCode_code": "JP"
+    },
+    {
+    "AirportID": "HKG",
+    "Name": "Hong Kong International Airport",
+    "City": "Hongkong",
+    "CountryCode_code": "CN"
+    },
+    {
+    "AirportID": "HOU",
+    "Name": "William P. Hobby Airport",
+    "City": "Houston, Texas",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "HRE",
+    "Name": "Harare International Airport",
+    "City": "Harare",
+    "CountryCode_code": "ZW"
+    },
+    {
+    "AirportID": "ITM",
+    "Name": "Osaka International Airport",
+    "City": "Osaka, Honshu",
+    "CountryCode_code": "JP"
+    },
+    {
+    "AirportID": "JFK",
+    "Name": "John F. Kennedy International Airport",
+    "City": "New York City, New York",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "KIX",
+    "Name": "Kansai International Airport",
+    "City": "Osaka, Honshu",
+    "CountryCode_code": "JP"
+    },
+    {
+    "AirportID": "KUL",
+    "Name": "Kuala Lumpur International Airport",
+    "City": "Kuala Lumpur",
+    "CountryCode_code": "MY"
+    },
+    {
+    "AirportID": "LAS",
+    "Name": "McCarran International Airport",
+    "City": "Las Vegas, Nevada",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "LAX",
+    "Name": "Los Angeles International Airport",
+    "City": "Los Angeles, California",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "LCY",
+    "Name": "London City Airport",
+    "City": "London",
+    "CountryCode_code": "UK"
+    },
+    {
+    "AirportID": "LGW",
+    "Name": "Gatwick Airport",
+    "City": "London",
+    "CountryCode_code": "UK"
+    },
+    {
+    "AirportID": "LHR",
+    "Name": "Heathrow Airport",
+    "City": "London",
+    "CountryCode_code": "UK"
+    },
+    {
+    "AirportID": "MAD",
+    "Name": "Adolfo Suárez Madrid–Barajas Airport",
+    "City": "Madrid",
+    "CountryCode_code": "ES"
+    },
+    {
+    "AirportID": "MCI",
+    "Name": "Kansas City International Airport",
+    "City": "Kansas City, Missouri",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "MIA",
+    "Name": "Miami International Airport",
+    "City": "Miami, Florida",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "MUC",
+    "Name": "Munich Airport",
+    "City": "Munich",
+    "CountryCode_code": "DE"
+    },
+    {
+    "AirportID": "NRT",
+    "Name": "Narita International Airport",
+    "City": "Tokyo, Honshu",
+    "CountryCode_code": "JP"
+    },
+    {
+    "AirportID": "ORY",
+    "Name": "Orly Airport",
+    "City": "Paris",
+    "CountryCode_code": "FR"
+    },
+    {
+    "AirportID": "RTM",
+    "Name": "Rotterdam The Hague Airport",
+    "City": "Rotterdam",
+    "CountryCode_code": "NL"
+    },
+    {
+    "AirportID": "SFO",
+    "Name": "San Francisco International Airport",
+    "City": "San Francisco, California",
+    "CountryCode_code": "US"
+    },
+    {
+    "AirportID": "SIN",
+    "Name": "Singapore Changi Airport",
+    "City": "Singapore",
+    "CountryCode_code": "SG"
+    },
+    {
+    "AirportID": "SVO",
+    "Name": "Sheremetyevo International Airport",
+    "City": "Moscow",
+    "CountryCode_code": "RU"
+    },
+    {
+    "AirportID": "SXF",
+    "Name": "Berlin Schönefeld Airport",
+    "City": "Berlin",
+    "CountryCode_code": "DE"
+    },
+    {
+    "AirportID": "THF",
+    "Name": "Berlin Tempelhof Airport",
+    "City": "Berlin",
+    "CountryCode_code": "DE"
+    },
+    {
+    "AirportID": "TXL",
+    "Name": "Berlin Tegel Airport",
+    "City": "Berlin",
+    "CountryCode_code": "DE"
+    },
+    {
+    "AirportID": "VCE",
+    "Name": "Venice Marco Polo Airport",
+    "City": "Venice",
+    "CountryCode_code": "IT"
+    },
+    {
+    "AirportID": "VIE",
+    "Name": "Vienna International Airport",
+    "City": "Vienna",
+    "CountryCode_code": "AT"
+    },
+    {
+    "AirportID": "VKO",
+    "Name": "Vnukovo International Airport",
+    "City": "Moscow",
+    "CountryCode_code": "RU"
+    },
+    {
+    "AirportID": "YOW",
+    "Name": "Ottawa Macdonald–Cartier Int. Airport",
+    "City": "Ottawa, Ontario",
+    "CountryCode_code": "CA"
+    },
+    {
+    "AirportID": "ZRH",
+    "Name": "Zürich Airport",
+    "City": "Zurich",
+    "CountryCode_code": "CH"
+    }
+    ]
